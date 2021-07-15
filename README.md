@@ -16,4 +16,4 @@
 * Assignment 6: [Link](https://github.com/Ha-Huynh-Anh/atom-assignments/blob/Assignment-6-w7/assignment_6/home_assignment_6.ipynb)
 * Assignment 7: [Link](https://www.kaggle.com/testdatacracy/ecommerce-customers-assignment-7-w8/notebook)
 ### 2. Project cuối khóa:
-+ [Repo thực hiện](https://github.com/Ha-Huynh-Anh/Timbenhvien_test)
++ [Repo tổng hợp](https://github.com/Ha-Huynh-Anh/Timbenhvien_test)
